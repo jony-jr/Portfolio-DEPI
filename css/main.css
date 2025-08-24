@@ -449,6 +449,9 @@ nav {
   font-size: 1.3rem;
   user-select: none;
 }
+.nav-left a {
+  color: white;
+}
 .nav-right a {
   margin: 0 10px;
 }
